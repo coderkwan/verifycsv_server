@@ -1,5 +1,2 @@
 Flask
 Gunicorn
-csv
-re
-so
